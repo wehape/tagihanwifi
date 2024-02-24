@@ -1,0 +1,192 @@
+<ew-language date="2024/2/25" id="en-US" desc="English" author="e.World Technology Limited">
+  <project>
+    <phrase id="bodytitle" value="Net BILLING" />
+    <phrase id="footertext" value="&amp;copy;2023 Wehape™ Comp. All rights reserved." />
+    <menu id="21">
+      <phrase id="menutext" value="DASHBOARD" />
+    </menu>
+    <menu id="13">
+      <phrase id="menutext" value="SUMMARY" />
+    </menu>
+    <menu id="10">
+      <phrase id="menutext" value="BILLING" />
+    </menu>
+    <menu id="4">
+      <phrase id="menutext" value="BROADCAST" />
+    </menu>
+    <menu id="31">
+      <phrase id="menutext" value="REPORT" />
+    </menu>
+    <menu id="22">
+      <phrase id="menutext" value="BILLING REPORT" />
+    </menu>
+    <menu id="11">
+      <phrase id="menutext" value="SETTING" />
+    </menu>
+    <menu id="1">
+      <phrase id="menutext" value="PELANGGAN" />
+    </menu>
+    <menu id="2">
+      <phrase id="menutext" value="BANDWIDTH" />
+    </menu>
+    <menu id="3">
+      <phrase id="menutext" value="STATUS BAYAR" />
+    </menu>
+    <menu id="12">
+      <phrase id="menutext" value="SUBSCRIPTION" />
+    </menu>
+    <table id="broadcast">
+      <phrase id="tblcaption" value="BROADCAST" />
+      <field id="nomorbc">
+        <phrase id="fldcaption" value="Nomor" />
+      </field>
+      <field id="tahun">
+        <phrase id="fldcaption" value="Tahun" />
+      </field>
+      <field id="bulan">
+        <phrase id="fldcaption" value="Bulan" />
+      </field>
+      <field id="tanggal">
+        <phrase id="fldcaption" value="Tanggal" />
+      </field>
+      <field id="namapelanggan">
+        <phrase id="fldcaption" value="Nama Pelanggan" />
+      </field>
+      <field id="ip">
+        <phrase id="fldcaption" value="IP" />
+      </field>
+      <field id="bandwidth">
+        <phrase id="fldcaption" value="Bandwidth" />
+      </field>
+      <field id="tagihan">
+        <phrase id="fldcaption" value="Tagihan" />
+      </field>
+      <field id="jenissubscription">
+        <phrase id="fldcaption" value="Jenis Subscription" />
+      </field>
+      <field id="bulansubscription">
+        <phrase id="fldcaption" value="Bulan Subscription" />
+      </field>
+      <field id="keterangansubscription">
+        <phrase id="fldcaption" value="Keterangan Subscription" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="nilai">
+        <phrase id="fldcaption" value="Nilai" />
+      </field>
+    </table>
+    <table id="data_pelanggan">
+      <phrase id="tblcaption" value="PELANGGAN" />
+      <field id="nomorpelanggan">
+        <phrase id="fldcaption" value="Nomor" />
+      </field>
+      <field id="namapelanggan">
+        <phrase id="fldcaption" value="Nama Pelanggan" />
+      </field>
+      <field id="ip">
+        <phrase id="fldcaption" value="IP" />
+      </field>
+      <field id="bandwidth">
+        <phrase id="fldcaption" value="Bandwidth" />
+      </field>
+      <field id="harga">
+        <phrase id="fldcaption" value="Tagihan" />
+      </field>
+      <field id="jenissubscription">
+        <phrase id="fldcaption" value="Subscription" />
+      </field>
+      <field id="bulansubscription">
+        <phrase id="fldcaption" value="Bulan" />
+      </field>
+      <field id="keterangansubscription">
+        <phrase id="fldcaption" value="Keterangan" />
+      </field>
+    </table>
+    <table id="bandwidth">
+      <phrase id="tblcaption" value="BANDWIDTH" />
+      <field id="nomorbandwidth">
+        <phrase id="fldcaption" value="Nomor" />
+      </field>
+      <field id="bandwidth">
+        <phrase id="fldcaption" value="Bandwidth" />
+      </field>
+      <field id="harga">
+        <phrase id="fldcaption" value="Harga" />
+      </field>
+    </table>
+    <table id="status">
+      <phrase id="tblcaption" value="STATUS BAYAR" />
+      <field id="nomorstatus">
+        <phrase id="fldcaption" value="Nomor" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="nilai">
+        <phrase id="fldcaption" value="Nilai" />
+      </field>
+    </table>
+    <table id="subscription">
+      <phrase id="tblcaption" value="SUBSCRIPTION" />
+      <field id="nomorsubscription">
+        <phrase id="fldcaption" value="Nomor Subscription" />
+      </field>
+      <field id="jenissubscription">
+        <phrase id="fldcaption" value="Jenis Subscription" />
+      </field>
+      <field id="bulansubscription">
+        <phrase id="fldcaption" value="Bulan Subscription" />
+      </field>
+      <field id="keterangansubscription">
+        <phrase id="fldcaption" value="Keterangan Subscription" />
+      </field>
+    </table>
+    <table id="dashboard2">
+      <phrase id="tblcaption" value="DASHBOARD" />
+    </table>
+    <table id="billing_report">
+      <phrase id="tblcaption" value="BILLING REPORT" />
+      <field id="nomorbc">
+        <phrase id="fldcaption" value="Nomor" />
+      </field>
+      <field id="tahun">
+        <phrase id="fldcaption" value="Tahun" />
+      </field>
+      <field id="bulan">
+        <phrase id="fldcaption" value="Bulan" />
+      </field>
+      <field id="tanggal">
+        <phrase id="fldcaption" value="Tanggal" />
+      </field>
+      <field id="namapelanggan">
+        <phrase id="fldcaption" value="Nama Pelanggan" />
+      </field>
+      <field id="ip">
+        <phrase id="fldcaption" value="IP" />
+      </field>
+      <field id="bandwidth">
+        <phrase id="fldcaption" value="Bandwidth" />
+      </field>
+      <field id="tagihan">
+        <phrase id="fldcaption" value="Tagihan" />
+      </field>
+      <field id="jenissubscription">
+        <phrase id="fldcaption" value="Jenis Subscription" />
+      </field>
+      <field id="bulansubscription">
+        <phrase id="fldcaption" value="Bulan Subscription" />
+      </field>
+      <field id="keterangansubscription">
+        <phrase id="fldcaption" value="Keterangan Subscription" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="nilai">
+        <phrase id="fldcaption" value="Nilai" />
+      </field>
+    </table>
+  </project>
+</ew-language>
