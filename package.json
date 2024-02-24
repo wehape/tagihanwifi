@@ -1,0 +1,11 @@
+{
+    "name": "tagihanwifi01",
+    "version": "24.3.0",
+    "description": "tagihanwifi01",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=18"
+    }
+}
